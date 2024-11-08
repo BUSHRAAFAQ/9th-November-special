@@ -1,0 +1,47 @@
+
+    
+   body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding:150;
+font-style: italic;
+    color: green;
+    
+
+}
+.image{
+    width:250px;
+    height:250px;
+    scroll-margin: 15%;
+    border-radius: 80%;
+    border: solid black;
+
+}
+.logo{
+    width:150px;
+    height:150px;
+    border-top: 10%;
+background-color: rgb(224, 156, 53);
+float:right;
+}
+h1{
+    font-size: 24px;
+    margin:20px 0 10px;
+    padding:2%;
+    border-radius: 10px;
+    box-shadow: 0 0 15px  #e63946;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+h2{
+    font-size: 24px;
+    margin:20px 0 10px;
+    padding:2%;
+    border-radius: 10px;
+    box-shadow: 0 0 15px  #e63946;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+button:hover{
+    background-color:black;
+}
